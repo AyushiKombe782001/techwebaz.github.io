@@ -1,0 +1,126 @@
+
+@import url('http://fonts.googleapis.com/css?family=Lato:400,700');
+
+body{
+    overflow-x: hidden;
+    font-family: 'Lato', sans-serif;
+    color: #505962;
+}
+
+/* navigation */
+
+.navbar{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.9rem;
+    letter-spacing: 0.1rem;
+    background-color: rgba(0,0,0,0.6)!important;
+}
+
+.navbar-brand img{
+    height:3rem ;
+}
+
+.navbar-brand{
+    font-size: 32px;
+}
+
+.navbar-nav li{
+    padding-right:0.7rem ;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    padding-top: 0.8rem;
+}
+
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #1ebba3;
+}
+
+.img-fluid{
+    width: 2500px;
+    height: 1000px;
+}
+
+
+.caption{
+    font-size: 5vw;
+    width: 100%;
+    max-width: 100%;
+    position: absolute;
+    top: 31%;
+    z-index:1 ;
+    color:  #79e9d8;
+    text-transform: uppercase;
+}
+
+.caption h1 {
+    font-size: 3.8rem;
+    font-weight: 700;
+    letter-spacing: 0.3rem;
+    text-shadow: 0.1rem 0.1rem 0.8rem black;
+    padding-bottom: 1rem;
+}
+
+.caption h3 {
+    font-size: 2rem;
+    text-shadow: 0.1rem 0.1rem 0.9rem black;
+    padding-bottom: 1.6rem;
+}
+
+.btn-lg {
+    border-width: medium;
+    border-radius: 0;
+    padding: 0.6rem 1.3rem;
+    font-size: 1.1rem;
+}
+
+.fab{
+    font-size: 40px;
+    margin: 10px;
+}
+
+.fa-instagram-square{
+    color:#e4405f;
+
+}
+
+.fa-linkedin{
+    color: #2d5496;
+}
+
+#companyservices{
+    background-image: url(https://mrgadget.com.au/wp-content/uploads/Desk-Cable-Management-Gadgets-To-Keep-You-Organised.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.card123{
+    margin: 100px;
+}
+
+.card456{
+    margin: 100px;
+}
+
+.card789{
+    margin: 100px;
+}
+
+.fas{
+    font-size: 50px;
+}
+
+.fa-tenge{
+    color: white;
+}
+
+.company{
+    font-size: 40px;
+    margin-left: 10px;
+    color: white;
+}
+
+
